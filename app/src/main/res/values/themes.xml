@@ -1,0 +1,12 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.FootballScoreKeeper" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary theme color of the app (sets background color of app bar) -->
+        <item name="colorPrimary">#FF9800</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Customize your theme here. -->
+        <!-- Background color of buttons in the app -->
+        <item name="colorButtonNormal">#FF9800</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>

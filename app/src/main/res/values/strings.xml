@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Football Score Keeper</string>
+    <string name="resetScores">Reset</string>
+    <string name="teamBPenaltyKick">Penalty Kick</string>
+    <string name="teamAPenaltyKick">Penalty Kick</string>
+    <string name="teamBFreeKick">Free Kick</string>
+    <string name="teamAFreeKick">Free Kick</string>
+    <string name="teamBYellow_card">Yellow Card</string>
+    <string name="teamAYellow_card">Yellow Card</string>
+    <string name="teamALogo">TeamA</string>
+    <string name="teamBLogo">TeamBLogo</string>
+    <string name="teamAScore">0</string>
+    <string name="dash">-</string>
+    <string name="teamBRedCard">Red Card</string>
+    <string name="teamARedCard">Red Card</string>
+    <string name="foul">Foul</string>
+    <string name="teamAFoulScore">0</string>
+    <string name="teamBFoulScore">0</string>
+    <string name="teamA">Barcelona</string>
+    <string name="teamB">Bayern</string>
+    <string name="goalB">Goal</string>
+    <string name="goalA">Goal</string>
+    <string name="teamBScore">0</string>
+</resources>
